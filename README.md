@@ -1,2 +1,2 @@
 # Baffle calculator
-Calculate baffle placement for an optical system
+Calculate baffle placement calculation for an optical tube (refractor).
