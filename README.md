@@ -9,3 +9,7 @@ And the calculated position/inner radius of the baffles:
 - Baffle position, radius (19.73708716838116, 1.6652950730914997)
 - Baffle position, radius (12.298381077285741, 1.414552171144463)
 - Baffle position, radius (7.107970809288662, 1.2395945216614155)
+
+
+Then 3D print the baffle from the parametric file provided:
+![Baffle calculated](baffle2print.png)
